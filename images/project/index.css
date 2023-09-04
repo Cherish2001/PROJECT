@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* flex-wrap: wrap; */
+}
+.head{
+    background-image: url(bg-hero-desktop.svg);
+    background-color: #EDFBFE;
+}
+.header-section{
+    display: flex;
+
+}
+.A{
+    width: 230px;
+    margin-left: 40px;
+    margin-top: 50px;
+
+}
+.B{
+    border: 2px solid white; 
+    background-color: white;
+    border-radius: 40px;
+    /* margin-top: 50px; */
+    margin-left: 750px;
+    width: 190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-section1{
+    display: flex;
+}
+.C{
+    margin-left: 40px;
+
+}
+.com{
+    margin-top: 210px;
+    font-size: 58px;
+    font-weight: 900px;
+}
+.coma{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.div{
+    border: 3px solid #FD9BDB;
+    background-color: #FD9BDB;
+    width: 220px;
+    border-radius: 40px;
+} 
+.D{
+    width: 650px;
+}
+
+.header-section2{
+    display: flex;
+    align-items: center;
+    border: 4px solid #F9f9f9;
+    border-radius: 30px;
+    margin: 100px 50px;
+    padding: 70px 35px;
+} 
+.image1{
+    width: 600px;
+}
+
+ .E1{
+   width: 40%;
+}
+
+
+.E2{
+   margin-top: 20px;
+}
+
+.header-section3{
+    display: flex;
+    align-items: center;
+    border: 4px solid #F9f9f9;
+    border-radius: 30px;
+    margin: 100px 50px;
+    padding: 70px 35px;
+}
+
+.G1{
+ 
+}
+
+.G2{
+    margin-top: 30px;
+    
+}
+  
+.header-section4{
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    margin: 100px 50px;
+    padding: 70px 35px;
+    border: 4px solid #EDFBFE;
+}
+
+.H1{
+width: 40%;
+
+}
+
+.H2{
+    margin-top: 30px;
+}
+.HH{
+    width: 600px;
+}
+
+.CHE{
+    border: 6px solid #F9f9f9;
+    padding: 25px 50px;
+    border-radius: 30px;
+    position: absolute;
+    left: 28%;
+    background-color: white;
+}
+
+.CHE1{
+    margin-top: 35px;
+
+}
+.CHE2{
+    border: 2px solid #FE52BF;
+    border-radius: 40px;
+    background-color: #FE52BF;
+    color: white;
+    margin-top: 25px;
+    margin-left: 80px;
+    max-width: 60%;
+    padding: 15px 0px;
+}
+
+.footer-section{
+    background-color: #00252E;
+    margin-top: 250px;
+    color: white;
+    width: 100%;
+    height: 500px;
+
+}
+.footer{
+    display: flex;
+    width: 100%;
+}
+
+.images{
+    display: flex;
+    padding: 20px 100px;
+}
+.logo{
+    margin-top: 200px; 
+    padding-left: 100px;
+}
+
+.footer #foot1{
+     width: 30%; 
+   
+}
+
+.footer #foot2{
+    width: 35%;
+}
+.footer #foot3{
+    width: 35%;
+
+}
+.lorem{
+    width: 65%;
+}
+
+.icon-location{
+   height: 15px;
+   padding-right: 15px;
+}
+
+.phone{
+    padding-right: 15px;
+}
+.email{
+    padding-right: 15px;
+}
+.copyright{
+    margin-top: 100px;
+}
+#foot3{
+    display: grid;
+}
+
+
+
+
+
